@@ -20,7 +20,7 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
 <img src='images/Image02.png'>
 
 # How the trained network is used to generate steering commands?
-<img src='images/Image03.png'>
+<img src='images/Image04.png'>
 
 # The neural network architecture.
 <img src='images/Image05.png'>
