@@ -33,5 +33,5 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
 <img src='images/Image07.png'>
 
 # Feature usefulness.
-<img src='images/Image05.png'>
+<img src='images/Image08.png'>
 
