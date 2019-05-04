@@ -4,7 +4,7 @@ This is an implementation of the research paper published by Nvidia a couple of 
 
 
 # How to Use the model?
-Download the [dataset](https://drive.google.com/file/d/18YHLAJqsZFYNH7spDt5z4Pcml8HpIn3l/view) and extract into the repository folder
+Download the [dataset](https://drive.google.com/file/d/18YHLAJqsZFYNH7spDt5z4Pcml8HpIn3l/view) from my google drive attachment and extract into the repository root folder
 
 Use `python train.py` to train the model
 
@@ -34,4 +34,7 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
 
 # Feature usefulness.
 <img src='images/Image08.png'>
+
+### Image References: NVidia Research
+### Concept References: Srickant Verma (Applied AI Course)
 
