@@ -37,4 +37,5 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
 
 ### Image References: NVidia Research
 ### Concept References: Srickant Verma (Applied AI Course)
+### Further exploration: Udacity Self Driving Car course.
 
